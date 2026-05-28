@@ -73,8 +73,8 @@ Users can add products to cart for shopping simulation.
 
 ### Homepage
 
-![Homepage](images/homepage.png)
-
+![Homepage](images/home.png)
+![Homepage](images/home1.png)
 ### Product Page
 
 ![Products](images/product.png)
@@ -82,6 +82,10 @@ Users can add products to cart for shopping simulation.
 ### Contact/Cart Page
 
 ![Contact](images/contact.png)
+
+### about/Cart Page
+
+![about](images/about.png)
 
 ---
 
