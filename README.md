@@ -77,7 +77,7 @@ Users can add products to cart for shopping simulation.
 
 ### Product Page
 
-![Products](images/products.png)
+![Products](images/product.png)
 
 ### Contact/Cart Page
 
